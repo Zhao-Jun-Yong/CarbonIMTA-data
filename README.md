@@ -1,6 +1,6 @@
 # CarbonIMTA data and analysis
 
-[![DOI](https://zenodo.org/badge/DOI-PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24455744.svg)](https://doi.org/10.5281/zenodo.24455744)
 
 Data and R script for the manuscript:
 
@@ -62,4 +62,4 @@ Two steps happened before these files and are not in the repository:
 
 ## Citation
 
-Please cite the manuscript (not yet published) and this dataset (DOI: TBD).
+Please cite the manuscript (not yet published) and this dataset (https://doi.org/10.5281/zenodo.24455744).
