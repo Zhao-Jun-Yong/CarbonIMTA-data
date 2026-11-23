@@ -63,3 +63,7 @@ Two steps happened before these files and are not in the repository:
 ## Citation
 
 Please cite the manuscript (not yet published) and this dataset (https://doi.org/10.5281/zenodo.24455744).
+
+## License
+
+CC BY 4.0. See `LICENSE`.
